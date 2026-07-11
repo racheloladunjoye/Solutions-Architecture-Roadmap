@@ -49,9 +49,10 @@ Build the fundamental knowledge required for cloud computing and solution archit
 -
 
 ## Reflection 
-What did I learn?
-What should I revisit?
-How can I apply this
+
+- What did I learn?
+- What should I revisit?
+- How can I apply this
 
 ## Completion Date
 
