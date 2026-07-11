@@ -17,7 +17,7 @@ My goal is to develop the knowledge and practical skills needed to design scalab
 - Git & GitHub
 - Databases
 - APIs
-- Cloud Computing (AWS)
+- Cloud Computing
 - Security
 - System Design
 - AI Architecture
