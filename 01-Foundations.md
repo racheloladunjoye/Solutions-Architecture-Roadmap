@@ -15,8 +15,46 @@ Build the fundamental knowledge required for cloud computing and solution archit
 
 ## Progress
 
-- [ ] Lesson 1 – What is a Computer?
-- [ ] Lesson 2 – What Happens When You Press the Power Button?
-- [ ] Lesson 3 – CPU
-- [ ] Lesson 4 – RAM
-- [ ] Lesson 5 – Storage
+- [ ] Lesson 1 – Computer Architecture Fundamentals
+- [ ] Lesson 2 – System Boot Process (POST, BIOS/UEFI & Bootloader)
+- [ ] Lesson 3 – CPU Architecture and Processing 
+- [ ] Lesson 4 – Memory Architecture (RAM, Cache & Virtual Memory)
+- [ ] Lesson 5 – Storage Technologies (HDD, SDD & NVMe)
+- [ ] Binary & Data Representation
+- [ ] Motherboard Components
+- [ ] Input & Output devices
+
+## Learning Outcomes
+
+-
+-
+-
+
+## Key Takeaways
+
+-
+-
+-
+
+## Practical Exercises 
+
+-
+-
+-
+
+## Resources
+
+-
+-
+-
+
+## Reflection 
+What did I learn?
+What should I revisit?
+How can I apply this
+
+## Completion Date
+
+DD/MM/YYYY
+
+
